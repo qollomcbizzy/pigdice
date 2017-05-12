@@ -3,6 +3,9 @@ function Dice(dice1,dice2){
   this.number1=dice1;
   this.number2=dice2;
 }
+Dice.prototype.totalMarks = function () {
+  return this.number1 + this.number2;
+};
 //user interface
 $(document).ready(function(){
   $("button#click").click(function(event){
