@@ -15,21 +15,31 @@ color: white;
   background-color: aliceblue;
   padding-top: 20px;
 }
-#dice1{
+#p1dice1{
   height: 60px;
   width: 60px;
   border: 1px solid red;
   padding: 14px;
   font-size: 20px;
 }
-#dice1 span{
-}
-#dice2{
+#p1dice2{
   height: 60px;
   width: 60px;
   border: 1px solid red;
   padding: 15px;
+  font-size: 20px;
 }
-#dice2 span{
+#p2dice1{
+  height: 60px;
+  width: 60px;
+  border: 1px solid red;
+  padding: 14px;
+  font-size: 20px;
+}
+#p2dice2{
+  height: 60px;
+  width: 60px;
+  border: 1px solid red;
+  padding: 15px;
   font-size: 20px;
 }
