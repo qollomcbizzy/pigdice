@@ -13,5 +13,6 @@ $(document).ready(function(){
     var d2=Math.floor(Math.random() * 6) +1;
     inputedDice1 = d1;
     inputedDice2 = d2;
+    var newDice= new Dice(inputedDice1,inputedDice2);
   })
 });
