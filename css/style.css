@@ -20,9 +20,9 @@ color: white;
   width: 60px;
   border: 1px solid red;
   padding: 14px;
+  font-size: 20px;
 }
 #dice1 span{
-  font-size: 20px;
 }
 #dice2{
   height: 60px;
