@@ -3,4 +3,5 @@
 It is a game that gives the two users to play against each other on rolling the dice  
 ### PROJECT SETUP
 ####    PROJECT SPECIFICATION
- 1. Create an object dice on the back-end 
+ 1. Create an object dice on the back-end
+ 2. Create an html for the input type and the css

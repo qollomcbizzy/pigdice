@@ -1,0 +1,35 @@
+h2{
+  text-align: center;
+  padding: 40px;
+  font-size: 60px;
+  font-family: serif;
+  font-style: oblique;
+}
+#heading{
+background-color: gray;
+border-bottom: 1px solid grey;
+color: white;
+}
+#dicearea{
+  margin-top: 30px;
+  background-color: aliceblue;
+  padding-top: 20px;
+}
+#dice1{
+  height: 60px;
+  width: 60px;
+  border: 1px solid red;
+  padding: 14px;
+}
+#dice1 span{
+  font-size: 20px;
+}
+#dice2{
+  height: 60px;
+  width: 60px;
+  border: 1px solid red;
+  padding: 15px;
+}
+#dice2 span{
+  font-size: 20px;
+}
